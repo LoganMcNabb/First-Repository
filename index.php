@@ -1,0 +1,1 @@
+<?php include_once("index_2.html"); ?>
